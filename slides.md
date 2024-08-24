@@ -192,7 +192,7 @@ level: 2
 <v-click>
 
 - You can also use Matching Headings to *help with other questions*
-- Guess the **likely locations** of the answers using the chosen headings
+  - Guess the **likely locations** of the answers using the chosen headings
 
 </v-click>
 
