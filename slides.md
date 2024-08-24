@@ -110,7 +110,7 @@ level: 2
 
 <v-click>
 
-## 1. Read the list of Headings quickly before skimming the passage
+### 1. Read the list of Headings quickly before skimming the passage
   - Try to **guess** or **predict** what the entire passage is about
   - Highlight/underline **keywords** in the Headings
 
@@ -118,7 +118,7 @@ level: 2
 
 <v-click>
 
-## 2. While skimming
+### 2. While skimming
   - Figure out the **organization of ideas**
   - Does the passage become *more general*, *more specific*, or something else?
   - Which paragraph contains a lot of **details** (e.g. names, dates, numbers, figures)
