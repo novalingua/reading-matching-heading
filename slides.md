@@ -6,6 +6,7 @@ theme: dracula
 # some information about your slides (markdown enabled)
 title: IELTS Reading - Matching Heading
 favicon: 'https://idrive.neolingo.net/mirror/assets/favicon.ico'
+titleTemplate: '%s'
 # apply unocss classes to the current slide
 class: text-center
 # https://sli.dev/features/drawing
