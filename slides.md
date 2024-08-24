@@ -148,7 +148,7 @@ level: 2
 
 <v-click>
 
-## 3. After each paragraph
+### 3. After each paragraph
   - Go back and choose the headings that **best matches** what you have read
   - For difficult paragraphs, skim the **entire paragraph** on a **second attempt**
   - **Skip paragraphs** that you can't answer and come back later
