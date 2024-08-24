@@ -184,8 +184,8 @@ level: 2
 <v-click>
 
 - **Use other questions** to help
-  - Skip difficult paragraphs and comeback *when you have answered other questions*
-    - => Come back when you've **understood the paragraph better**
+  - Skip difficult paragraphs and come back *when you have answered other questions*
+    - => Return when you've **understood the paragraph better**
 
 </v-click>
 
